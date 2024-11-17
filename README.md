@@ -35,4 +35,16 @@ git clone https://github.com/Naveen05-lang/Gain/edit/main/README.md
 Navigate to the Project Directory
 
 cd Gain
+Give a command, to create a branch 
+git checkout -b "branchName"
+Now can u can able to make changes.
+Then "add " it to stages changes to be commited
+git add .
+Then ,
+git commit -m "message" to save changes 
+Now push it into the github
+git push origin main
+it will ask in the github like compare and pull request
+click on that and merge .
+Now,it is merge in the main branch .
 
