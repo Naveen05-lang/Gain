@@ -1,5 +1,5 @@
 # Gain
-My First GitHub Repository: [Project Name]
+My First GitHub Repository
 
 Project Overview :
 This project, Personal website, is a "personal portfolio site". The purpose of this project is to showcasing personal work, learning a new technology, etc.,
